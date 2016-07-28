@@ -3,16 +3,16 @@ Simple app to generate Fibonacci numbers
 
 ###Live at
 
-Each of these examples uses the same [fib.js](https://github.com/sbm-it/fibonacci/blob/gh-pages/fib.js) code 
+Each of these examples uses the same [fib.js](https://github.com/sbm-it/fibonacci/blob/gh-pages/fib.js) code
 
-1. Full External - http://sbm-it.github.io/fibonacci
+1. Full External - http://sbm-it.github.io/Temp-Converter
 
 2. Easy External - http://sbm-it.github.io/fibonacci/easy.html
 
-3. Store Embedded - https://sbm-it.github.io/apps/#fibonacci
+3. Store Embedded - https://sbm-it.github.io/apps/#Temp-Converter
 
 ___
-Best start view reviewing 12 min videocast 
+Best start view reviewing 12 min videocast
 
 [![](http://img.youtube.com/vi/ZQS3nlZMDzw/default.jpg)](http://www.youtube.com/watch?v=ZQS3nlZMDzw&vq=hd720) <— **click to view video in YouTube !**
 
@@ -99,7 +99,7 @@ In order to achieve this, as shown in [easy.html](https://github.com/sbm-it/fibo
 </html>
 ```
 
-Notice how the graphics are now the same as those of the app store. Although this is an external app, it is undistinguishable from and embedded app. 
+Notice how the graphics are now the same as those of the app store. Although this is an external app, it is undistinguishable from and embedded app.
 
 ![](http://sbm-it.github.io/fibonacci/snap2.png)
 
@@ -119,4 +119,3 @@ After some tests, if all is good, your manifest will be added to the app store m
 
 
 ![](http://sbm-it.github.io/fibonacci/snap3.png)
-
