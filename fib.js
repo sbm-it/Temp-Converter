@@ -25,7 +25,7 @@ f +='</table>'
         sbmApps.render(f)
     }else{ // if fib.js is being called without any help
         var dv = document.createElement('div')
-        dv.innerHTML = h
+        dv.innerHTML = f
         document.body.appendChild(dv)
     }
     // style
