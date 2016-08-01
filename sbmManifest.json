@@ -1,6 +1,6 @@
 {
-    "name":"Fibonacci",
-    "description":"generates Fibonacci series",
-    "icon":"https://www.mathsisfun.com/numbers/images/fibonacci.jpg",
+    "name":"Temp-Converter",
+    "description":"Convert Temp bet C and F",
+    "icon":"http://www.ferinheighttocelsius.com/F-to-C/doc/wp-content/uploads/liquid-thermometer.gif",
     "onclick":"https://sbm-it.github.io/Temp-Converter/fib.js"
 }
