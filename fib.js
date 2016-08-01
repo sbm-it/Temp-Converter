@@ -20,6 +20,6 @@ console.log('fib.js loaded');
     fibLength.style.border=0
     // fib generator
 
-    
+
     //fibSeed.onblur=fibLength.onblur=function(){fibButton.click()}
 })()
