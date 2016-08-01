@@ -7,7 +7,7 @@ Each of these examples uses the same [fib.js](https://github.com/sbm-it/fibonacc
 
 1. Full External - http://sbm-it.github.io/Temp-Converter
 
-2. Easy External - http://sbm-it.github.io/fibonacci/easy.html
+2. Easy External - http://sbm-it.github.io/Temp-Converter/easy.html
 
 3. Store Embedded - https://sbm-it.github.io/apps/#Temp-Converter
 
